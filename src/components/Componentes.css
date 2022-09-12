@@ -1,0 +1,12 @@
+.containerPrimeiroComponente {
+  background-color: aquamarine;
+}
+
+.titulo {
+  color: blue; 
+}
+
+.containerDinamico {
+  display: flex;
+  gap: 0 20px;
+}
